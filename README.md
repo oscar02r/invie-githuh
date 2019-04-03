@@ -1,3 +1,2 @@
 # invie-githuh
-Tu mejores guitarras y las mias tambien
-
+Tu mejores guitarras  by platzi
